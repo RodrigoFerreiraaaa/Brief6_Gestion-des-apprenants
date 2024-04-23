@@ -4,7 +4,7 @@ namespace src\Models;
 
 use src\Services\Hydratation;
 
-class Utilisateurs
+class Utilisateur
 {
 
     private int $IdUtilisateur;
